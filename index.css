@@ -1,28 +1,6 @@
-
-
-
-
-.box-01 {
-    padding: 2rem;
-    border: none;
-    border-radius: 5px;
-    background-color: lightskyblue;
-    color: #252525;
-    margin-bottom: 1rem;
-}
-.box-02 {
-    padding: 2rem;
-    border: none;
-    border-radius: 5px;
-    background-color: lightskyblue;
-    color: #252525;
-    margin-bottom: 1rem;
-}
-.git-cmd {
-    padding: 2rem;
-    border: none;
-    border-radius: 5px;
-    background-color: lightskyblue;
-    color: #252525;
-    margin-bottom: 1rem;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
 }
